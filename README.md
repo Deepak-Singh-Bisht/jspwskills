@@ -1,0 +1,2 @@
+# jspwskills
+assignment of javascirpt
